@@ -1,2 +1,3 @@
-# abraham-git-and-github-repo
-A compilation of my learnings on Git and Github
+let A = b + c
+let B =  C + D
+console.log 'D'
