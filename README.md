@@ -1,3 +1,2 @@
-let A = b + c
-let B =  C + D
-console.log 'D'
+Learning git and git hub
+learning to create repo and commit
